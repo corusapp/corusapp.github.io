@@ -5,7 +5,7 @@ date: 2020-03-29T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: "/uploads/2018/06/21/corus-logo-text.png"
   navigation:
   - link: "/"
     link_text: Home
@@ -19,7 +19,7 @@ page_sections:
   headline: Cor<strong>US</strong>
   content: Puts you first - health, privacy and secure data, we have it all. We'll keep you informed and safeguarded in the case of COVID-19 positive contact. Let's be certain of the uncertainties together.
   image:
-    image: "/uploads/2018/06/21/CorUS-mark-positive.jpg"
+    image: "/uploads/2018/06/21/corus-logo.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: detail-content
@@ -85,7 +85,7 @@ page_sections:
 #     article</a> and create your own Blocks.</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎
+  content: Made with ❤︎ for the community
 
 ---
 foo bar
