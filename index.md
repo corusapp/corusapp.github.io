@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "/team"
+  - link: "/#team"
     link_text: Team
   cta:
     url: "#download"
