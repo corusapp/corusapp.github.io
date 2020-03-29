@@ -11,6 +11,13 @@ page_sections:
     link_text: Home
   - link: "/#team"
     link_text: Team
+  - link: "/inspiration"
+    link_text: Problem Statement
+  - link: "/solution"
+    link_text: Our Solution
+  - link: "/roadahead"
+    link_text: Future Plans
+    
   cta:
     url: "#download"
     button_text: Download
