@@ -85,7 +85,7 @@ page_sections:
 #     article</a> and create your own Blocks.</p></li></ol>
 - template: simple-footer
   block: footer-2
-  col_1: <br /><br /><span id="download">Made with ❤︎ for the community</span>
+  col_1: <br /><br /><p id="download">Made with ❤︎ for the community</p>
   col_3: <a href="#" target="_blank"><img src="/uploads/2018/06/21/playstore.png" width="400" height="auto" alt="Play Store"></a>
   col_4: <a href="#" target="_blank"><img src="/uploads/2018/06/21/appstore.png" width="400" height="auto" alt="App Store"></a>
 
