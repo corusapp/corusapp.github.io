@@ -1,7 +1,7 @@
 ---
 layout: blocks
-title: Homepage
-date: 2017-11-22T23:00:00.000+00:00
+title: CorUS - Puts you first
+date: 2020-03-29T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -16,17 +16,12 @@ page_sections:
   - link: "#team"
     link_text: Team
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
+    url: "#download"
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
-  cta:
-    enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+  headline: Cor<b>US</b><br />Puts you first
+  content: Health, privacy and secure data, we have it all. We'll keep you informed and safeguarded in the case of COVID-19 positive contact. Let's be certain of the uncertainties together.
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
