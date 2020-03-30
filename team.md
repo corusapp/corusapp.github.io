@@ -51,7 +51,7 @@ page_sections:
     content: "<strong>Oleh Kudinov</strong> <a href='https://www.linkedin.com/in/oleh-kudinov-11840a5b' target='_blank'><img height='16' src='/uploads/team/linkedin.svg' /></a><br /><br /><p>Senior iOS Software Engineer - Revolut</p>"
   col_2:
     headline: <img style="border-radius:50%;" height="200" src="/uploads/team/mariachristinakalogera.jpg" />
-    content: "<strong>Maria Christina Kalogera</strong> <a href='#' target='_blank'><img height='16' src='/uploads/team/linkedin.svg' /></a><br /><br /><p></p>"
+    content: "<strong>Maria Christina Kalogera</strong> <a href='https://www.linkedin.com/in/maria-christina-kalogera-462092142/' target='_blank'><img height='16' src='/uploads/team/linkedin.svg' /></a><br /><br /><p>Student - Cornell University</p>"
   col_3:
     headline: <img style="border-radius:50%;" height="200" src="/uploads/team/arifluthfiansyah.jpg" />
     content: "<strong>Arif Luthfiansyah</strong> <a href='https://id.linkedin.com/in/arif-luthfiansyah-3b4311139' target='_blank'><img height='16' src='/uploads/team/linkedin.svg' /></a><br /><br /><p></p>"
