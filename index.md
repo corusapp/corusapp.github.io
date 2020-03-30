@@ -28,7 +28,10 @@ page_sections:
     image: "/uploads/2018/06/21/corus-logo.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
-
+- template: 1-column-text
+  block: one-column-1
+  headline: 16 Fully Responsive Design Blocks
+  content: <div class="video-container"><iframe src="https://www.youtube.com/embed/5Peo-ivmupE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 # - template: content-feature
 #   block: feature-1
 #   media_alignment: Left

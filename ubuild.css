@@ -361,8 +361,8 @@ input.inverted::placeholder {
 }
 
 .block-hero-2 .column.media img {
-	/* height: 80vh;
-	width: 40vh; */
+	width: 45vw;
+	max-width: 520px;
 	filter: drop-shadow(15px 15px 15px #222);
 	-webkit-filter: drop-shadow(15px 15px 15px #222);
 }
@@ -825,4 +825,24 @@ body {
 ::selection {
 	background: #ffedbc;
 	color: #333
+}
+
+.video-container {
+	overflow: hidden;
+	position: relative;
+	width:100%;
+}
+
+.video-container::after {
+	padding-top: 56.25%;
+	display: block;
+	content: '';
+}
+
+.video-container iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
 }
