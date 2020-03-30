@@ -8,13 +8,13 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "/inspiration/"
+  - link: "/inspiration"
     link_text: Problem Statement
-  - link: "/solution/"
+  - link: "/solution"
     link_text: Our Solution
-  - link: "/roadahead/"
+  - link: "/roadahead"
     link_text: Future Plans
-  - link: "/team/"
+  - link: "/team"
     link_text: Team
   cta:
     url: "#download"
