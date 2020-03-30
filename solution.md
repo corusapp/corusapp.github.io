@@ -24,57 +24,6 @@ page_sections:
   block: hero-1
   heading: Cor<strong>US</strong>
   content: <p>Puts you first - health, privacy and secure data, we have it all. We'll keep you informed and safeguarded in the case of COVID-19 positive contact. Let's be certain of the uncertainties together.</p>
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: 16 Fully Responsive Design Blocks
-    content: "The Design Blocks can be used without Forestry but to harness the power
-      of Blocks we recommend using Forestry. Once the site is imported you can immediately
-      create new sites and make them fully customizable. \U0001F447"
-  col_2:
-    headline: 16 Fully Responsive Design Blocks
-    content: "The Design Blocks can be used without Forestry but to harness the power
-      of Blocks we recommend using Forestry. Once the site is imported you can immediately
-      create new sites and make them fully customizable. \U0001F447"
-  col_3:
-    headline: 16 Fully Responsive Design Blocks
-    content: "The Design Blocks can be used without Forestry but to harness the power
-      of Blocks we recommend using Forestry. Once the site is imported you can immediately
-      create new sites and make them fully customizable. \U0001F447"
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: 16 Fully Responsive Design Blocks
-    content: "The Design Blocks can be used without Forestry but to harness the power
-      of Blocks we recommend using Forestry. Once the site is imported you can immediately
-      create new sites and make them fully customizable. \U0001F447"
-  col_2:
-    headline: 16 Fully Responsive Design Blocks
-    content: "The Design Blocks can be used without Forestry but to harness the power
-      of Blocks we recommend using Forestry. Once the site is imported you can immediately
-      create new sites and make them fully customizable. \U0001F447"
-  col_3:
-    headline: 16 Fully Responsive Design Blocks
-    content: "The Design Blocks can be used without Forestry but to harness the power
-      of Blocks we recommend using Forestry. Once the site is imported you can immediately
-      create new sites and make them fully customizable. \U0001F447"
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: 16 Fully Responsive Design Blocks
-    content: "The Design Blocks can be used without Forestry but to harness the power
-      of Blocks we recommend using Forestry. Once the site is imported you can immediately
-      create new sites and make them fully customizable. \U0001F447"
-  col_2:
-    headline: 16 Fully Responsive Design Blocks
-    content: "The Design Blocks can be used without Forestry but to harness the power
-      of Blocks we recommend using Forestry. Once the site is imported you can immediately
-      create new sites and make them fully customizable. \U0001F447"
-  col_3:
-    headline: 16 Fully Responsive Design Blocks
-    content: "The Design Blocks can be used without Forestry but to harness the power
-      of Blocks we recommend using Forestry. Once the site is imported you can immediately
-      create new sites and make them fully customizable. \U0001F447"
 # - template: content-feature
 #   block: feature-1
 #   media_alignment: Left
@@ -95,12 +44,15 @@ page_sections:
 #   media:
 #     image: "/uploads/2018/06/21/edit.gif"
 #     alt_text: Customize Blocks
-# - template: 1-column-text
-#   block: one-column-1
-#   headline: 16 Fully Responsive Design Blocks
-#   content: "The Design Blocks can be used without Forestry but to harness the power
-#     of Blocks we recommend using Forestry. Once the site is imported you can immediately
-#     create new sites and make them fully customizable. \U0001F447"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Our Solution
+  content: <p>Once the user registers on the application and enables the Bluetooth, the app scans for nearby Bluetooth devices and keeps a log of their Bluetooth mac in the user's mobile device. The app keeps a log of the last 21 days. In the meantime, if a user goes for a COVID-19 test and the results are positive. They have an option to mark themselves as positive on the app. Once, the user marks itself positive, the regulatory body using the application will verify whether that person is providing the correct information. <strong>After the information is verified</strong>, push notifications are sent to all the mac's who were in his close proximity of the user (i.e. within 2 meters). The simple and minimalistic interface also ensures ease of access and usage for all age brackets of users.</p><p>We take advantage of the fact that all the COVID-19 tests are recorded in the world and the verification is easier. Verification is a must as the spread of misinformation is as harmful as the diseases.</p><p>Once we have enough users who have marked themselves positive, we will highlight the positive zones on the map so that people can take precautions accordingly.</p>
+  media:  
+    image: "/uploads/system_design.png"
+    alt_text: sysetm design
+  
 # - template: full-width-media-element
 #   block: media-1
 #   image: "/uploads/2018/06/21/theme.png"
