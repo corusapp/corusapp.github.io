@@ -43,22 +43,6 @@ page_sections:
     headline: <img style="border-radius:50%;" height="200" src="/uploads/team/divyamupneja.jpg" />
     content: "<strong>Divyam Upneja</strong> <a href='https://in.linkedin.com/in/divyam1' target='_blank'><img height='16' src='/uploads/team/linkedin.svg' /></a><br /><br /><p>Software Engineer - BlackNGreen</p>"
 
-- template: 3-column-text
-  block: three-column-1
-  headline: iOS Developers
-  col_1:
-    headline: <img style="border-radius:50%;" height="200" src="/uploads/team/olehkudinov.png" />
-    content: "<strong>Oleh Kudinov</strong> <a href='https://www.linkedin.com/in/oleh-kudinov-11840a5b' target='_blank'><img height='16' src='/uploads/team/linkedin.svg' /></a><br /><br /><p>Senior iOS Software Engineer - Revolut</p>"
-  col_2:
-    headline: <img style="border-radius:50%;" height="200" src="/uploads/team/mariachristinakalogera.jpg" />
-    content: "<strong>Maria Christina Kalogera</strong> <a href='https://www.linkedin.com/in/maria-christina-kalogera-462092142/' target='_blank'><img height='16' src='/uploads/team/linkedin.svg' /></a><br /><br /><p>Student - Cornell University</p>"
-  col_3:
-    headline: <img style="border-radius:50%;" height="200" src="/uploads/team/arifluthfiansyah.jpg" />
-    content: "<strong>Arif Luthfiansyah</strong> <a href='https://id.linkedin.com/in/arif-luthfiansyah-3b4311139' target='_blank'><img height='16' src='/uploads/team/linkedin.svg' /></a><br /><br /><p></p>"
-  col_4:
-    headline: <img style="border-radius:50%;" height="200" src="/uploads/team/arifinfirdaus.jpg" />
-    content: "<strong>Arifin Firdaus</strong> <a href='#' target='_blank'><img height='16' src='/uploads/team/linkedin.svg' /></a><br /><br /><p></p>"
-
 - template: 2-column-text
   block: two-column-1
   headline: Backend Developers
@@ -79,6 +63,22 @@ page_sections:
   col_2:
     headline: <img style="border-radius:50%;" height="200" src="/uploads/team/tarapattilachan.png" />
     content: "<strong>Tara Pattilachan</strong> <a href='https://www.linkedin.com/in/tarapattilachan' target='_blank'><img height='16' src='/uploads/team/linkedin.svg' /></a><br /><br /><p>Research Student - UCF Center of Research for Computer Vision</p>"
+
+- template: 3-column-text
+  block: three-column-1
+  headline: iOS Developers
+  col_1:
+    headline: <img style="border-radius:50%;" height="200" src="/uploads/team/olehkudinov.png" />
+    content: "<strong>Oleh Kudinov</strong> <a href='https://www.linkedin.com/in/oleh-kudinov-11840a5b' target='_blank'><img height='16' src='/uploads/team/linkedin.svg' /></a><br /><br /><p>Senior iOS Software Engineer - Revolut</p>"
+  col_2:
+    headline: <img style="border-radius:50%;" height="200" src="/uploads/team/mariachristinakalogera.jpg" />
+    content: "<strong>Maria Christina Kalogera</strong> <a href='https://www.linkedin.com/in/maria-christina-kalogera-462092142/' target='_blank'><img height='16' src='/uploads/team/linkedin.svg' /></a><br /><br /><p>Student - Cornell University</p>"
+  col_3:
+    headline: <img style="border-radius:50%;" height="200" src="/uploads/team/arifluthfiansyah.jpg" />
+    content: "<strong>Arif Luthfiansyah</strong> <a href='https://id.linkedin.com/in/arif-luthfiansyah-3b4311139' target='_blank'><img height='16' src='/uploads/team/linkedin.svg' /></a><br /><br /><p></p>"
+  col_4:
+    headline: <img style="border-radius:50%;" height="200" src="/uploads/team/arifinfirdaus.jpg" />
+    content: "<strong>Arifin Firdaus</strong> <a href='#' target='_blank'><img height='16' src='/uploads/team/linkedin.svg' /></a><br /><br /><p></p>"
 
 
 # - template: content-feature
