@@ -679,7 +679,9 @@ input.inverted::placeholder {
 }
 
 .block-feature-1 .column.media img {
-	max-width: 100%
+	max-width: 100%;
+	filter: drop-shadow(15px 15px 15px #222);
+	-webkit-filter: drop-shadow(15px 15px 15px #222);
 }
 
 @media screen and (min-width:700px) {
