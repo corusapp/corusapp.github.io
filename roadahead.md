@@ -24,57 +24,6 @@ page_sections:
   block: hero-1
   heading: Cor<strong>US</strong>
   content: <p>Puts you first - health, privacy and secure data, we have it all. We'll keep you informed and safeguarded in the case of COVID-19 positive contact. Let's be certain of the uncertainties together.</p>
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: 16 Fully Responsive Design Blocks
-    content: "The Design Blocks can be used without Forestry but to harness the power
-      of Blocks we recommend using Forestry. Once the site is imported you can immediately
-      create new sites and make them fully customizable. \U0001F447"
-  col_2:
-    headline: 16 Fully Responsive Design Blocks
-    content: "The Design Blocks can be used without Forestry but to harness the power
-      of Blocks we recommend using Forestry. Once the site is imported you can immediately
-      create new sites and make them fully customizable. \U0001F447"
-  col_3:
-    headline: 16 Fully Responsive Design Blocks
-    content: "The Design Blocks can be used without Forestry but to harness the power
-      of Blocks we recommend using Forestry. Once the site is imported you can immediately
-      create new sites and make them fully customizable. \U0001F447"
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: 16 Fully Responsive Design Blocks
-    content: "The Design Blocks can be used without Forestry but to harness the power
-      of Blocks we recommend using Forestry. Once the site is imported you can immediately
-      create new sites and make them fully customizable. \U0001F447"
-  col_2:
-    headline: 16 Fully Responsive Design Blocks
-    content: "The Design Blocks can be used without Forestry but to harness the power
-      of Blocks we recommend using Forestry. Once the site is imported you can immediately
-      create new sites and make them fully customizable. \U0001F447"
-  col_3:
-    headline: 16 Fully Responsive Design Blocks
-    content: "The Design Blocks can be used without Forestry but to harness the power
-      of Blocks we recommend using Forestry. Once the site is imported you can immediately
-      create new sites and make them fully customizable. \U0001F447"
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: 16 Fully Responsive Design Blocks
-    content: "The Design Blocks can be used without Forestry but to harness the power
-      of Blocks we recommend using Forestry. Once the site is imported you can immediately
-      create new sites and make them fully customizable. \U0001F447"
-  col_2:
-    headline: 16 Fully Responsive Design Blocks
-    content: "The Design Blocks can be used without Forestry but to harness the power
-      of Blocks we recommend using Forestry. Once the site is imported you can immediately
-      create new sites and make them fully customizable. \U0001F447"
-  col_3:
-    headline: 16 Fully Responsive Design Blocks
-    content: "The Design Blocks can be used without Forestry but to harness the power
-      of Blocks we recommend using Forestry. Once the site is imported you can immediately
-      create new sites and make them fully customizable. \U0001F447"
 # - template: content-feature
 #   block: feature-1
 #   media_alignment: Left
@@ -95,12 +44,11 @@ page_sections:
 #   media:
 #     image: "/uploads/2018/06/21/edit.gif"
 #     alt_text: Customize Blocks
-# - template: 1-column-text
-#   block: one-column-1
-#   headline: 16 Fully Responsive Design Blocks
-#   content: "The Design Blocks can be used without Forestry but to harness the power
-#     of Blocks we recommend using Forestry. Once the site is imported you can immediately
-#     create new sites and make them fully customizable. \U0001F447"
+- template: 1-column-text
+  block: one-column-1
+  headline: What's next fro CorUS
+  content: <p>CorUS has many future goals, as we believe that this application has several implications not only within social distancing but also in legislation and medicine.</p><p>Here is a quick preview of what to come:</p><ul><li><p>Find a regulatory body/governmental body to adopt our app</p></li><li><p>Add a login for the regulatory/health department to get the positive cases as per their region</p></li><li><p>Nudge CDC approved information of symptoms to the users who were in contact with COVID-19 positive people</p></li><li><p>Add information about the nearby doctors, so when we send a notification to the person who was in contact with a COVID19 positive person. They can know where to go to seek help.</p></li></ul>
+  
 # - template: full-width-media-element
 #   block: media-1
 #   image: "/uploads/2018/06/21/theme.png"
