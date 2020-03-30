@@ -52,9 +52,7 @@ page_sections:
   media:  
     image: "/uploads/kanika_kapoor_trail.jpg"
     alt_text: Media doing the trail for celebs
-  media:  
-    image: "/uploads/fb_trace.png"
-    alt_text: It took a friend 7 days to do the trace.
+  
 # - template: full-width-media-element
 #   block: media-1
 #   image: "/uploads/2018/06/21/theme.png"
