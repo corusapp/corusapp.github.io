@@ -50,7 +50,10 @@ page_sections:
   headline: The problem we are trying to solve. 
   content: <p>It's easy to find the epicenter of a pandemic, but it's not as easy to stop it. Though the epicenter of the COVID-19 disease was quickly identified, it spread like a wildfire as people were traveling from one place to another, often accompanied by no certain knowledge of the risks of contact. With CorUS, we aim to finally put that 'wildfire' out, and assist in flattening out the pandemic curve.</p><p>Tracing and knowing whether you came in contact with a COVID-19 positive person has been a big issue, and often comes down to pure speculation. For example, with celebrities, the newspapers sometimes try to emulate a flowchart of contact points, such as in one of the attached pictures. In most cases, like in one of my friend's, you typically use social media or make phone calls. It took her <strong>7 days</strong> after the test to get to know that someone she met was in contact with a positive person.</p><p>This 'guesstimating' process takes a lot of time and in the meantime, the virus passes on to other people. We want to simplify the life of the families and health officers making these distress calls.</p><p>Though most of the people are staying in, the essential workers, like my dad, are still going out and interacting with people. They need to be safeguarded first, so this app gives them a tool to know whether they interacted with a COVID-19 positive person, and what precautions to take.</p>
   media:  
-    image: "/uploads/kanika_kapoor_trial.jpg"
+    image: "/uploads/kanika_kapoor_trail.jpg"
+    alt_text: Media doing the trail for celebs
+  media:  
+    image: "/uploads/fb_trace.png"
     alt_text: It took a friend 7 days to do the trace.
 # - template: full-width-media-element
 #   block: media-1
