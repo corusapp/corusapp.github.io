@@ -1,10 +1,8 @@
 title: CorUS - Puts you first
-author: Anshul Gupta
-email: anshulgupta0803@gmail.com
+author: Ankur Kataria
+email: ankur57k@gmail.com
 description: >-
-  ubuild-jekyll is a Jekyll theme desgined to work with Forestry's Blocks feature.
-  This theme provides a set of page-level components and a pre-configured Forestry Blocks UI
-  that will empower content editors to construct their own webpages.
+  CorUS - Puts you first - health, privacy and secure data, we have it all. We'll keep you informed and safeguarded in the case of COVID-19 positive contact. Let's be certain of the uncertainties together.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # your site's origin, e.g. https://forestry.io
 
@@ -18,6 +16,8 @@ defaults:
 plugins:
   - jekyll-feed
   - jekyll-menus
+
+permalink: pretty
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

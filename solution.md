@@ -1,7 +1,6 @@
 ---
 layout: blocks
 title: CorUS - Puts you first
-date: 2020-03-29T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -9,13 +8,13 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "/inspiration"
+  - link: "/inspiration/"
     link_text: Problem Statement
-  - link: "/solution"
+  - link: "/solution/"
     link_text: Our Solution
-  - link: "/roadahead"
+  - link: "/roadahead/"
     link_text: Future Plans
-  - link: "/#team"
+  - link: "/team/"
     link_text: Team
   cta:
     url: "#download"
@@ -71,6 +70,7 @@ page_sections:
 - template: simple-footer
   block: footer-2
   col_1: <br /><br /><p id="download">Made with ❤︎ for the community</p>
+  col_2: "<p style='color:red;'>* The application is production ready but it can't go live without a tie up with regulatory body</p>"
   col_3: <a href="#" target="_blank"><img src="/uploads/2018/06/21/playstore.png" width="400" height="auto" alt="Play Store"></a>
   col_4: <a href="#" target="_blank"><img src="/uploads/2018/06/21/appstore.png" width="400" height="auto" alt="App Store"></a>
 
