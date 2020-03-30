@@ -50,8 +50,8 @@ page_sections:
   headline: Our Solution
   content: <p>Once the user registers on the application and enables the Bluetooth, the app scans for nearby Bluetooth devices and keeps a log of their Bluetooth mac in the user's mobile device. The app keeps a log of the last 21 days. In the meantime, if a user goes for a COVID-19 test and the results are positive. They have an option to mark themselves as positive on the app. Once, the user marks itself positive, the regulatory body using the application will verify whether that person is providing the correct information. <strong>After the information is verified</strong>, push notifications are sent to all the mac's who were in his close proximity of the user (i.e. within 2 meters). The simple and minimalistic interface also ensures ease of access and usage for all age brackets of users.</p><p>We take advantage of the fact that all the COVID-19 tests are recorded in the world and the verification is easier. Verification is a must as the spread of misinformation is as harmful as the diseases.</p><p>Once we have enough users who have marked themselves positive, we will highlight the positive zones on the map so that people can take precautions accordingly.</p>
   media:  
-    image: "/uploads/System_Design.pdf"
-    alt_text: sysetm design
+    image: "/uploads/system_design.png"
+    alt_text: System Design
   
 # - template: full-width-media-element
 #   block: media-1
