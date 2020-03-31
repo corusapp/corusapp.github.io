@@ -51,7 +51,14 @@ page_sections:
   media:
     image: "/uploads/system_design.png"
     alt_text: System Design
-
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Challenges
+  content: <p>One of the major issues that come with the creation of a tracking application is the concern of privacy and data usage. It is our goal to ensure the privacy of the data, and we shouldn’t be a ‘Big Brother’ which tracks everything.</p><br /><p>It is of foremost importance that the users are assured that the app isn't spying on them. It is for this reason that CorUS has no GPS tracking. </p><br /><p>Although the application needs a lot of data processing and correlation, it is mostly serverless. </p><br /><p>Another challenge we’re running to is reaching out to the governmental entities to adopt the application, but our team will surely persevere and make sure that it gets done.</p>
+  media:
+    image: "/uploads/royalty_free_vector.jpg"
+    alt_text: Abstract vector
 # - template: full-width-media-element
 #   block: media-1
 #   image: "/uploads/2018/06/21/theme.png"
