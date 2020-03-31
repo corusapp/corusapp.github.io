@@ -30,7 +30,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline:
-  content: <div class="video-container"><iframe src="https://www.youtube.com/embed/gx9l3FiQ9u8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  content: <div class="video-container"><iframe src="https://www.youtube.com/embed/6jgC6GPXfPs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 # - template: content-feature
 #   block: feature-1
 #   media_alignment: Left
